@@ -1,0 +1,241 @@
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,RTP 1
+#EXTVLCOPT:program=101
+http://192.168.1.5:8001/1:0:1:65:65:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,RTP 2
+#EXTVLCOPT:program=102
+http://192.168.1.5:8001/1:0:1:66:65:53:CE40000:0:0:0:
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SIC
+#EXTVLCOPT:program=201
+http://192.168.1.5:8001/1:0:1:C9:66:53:CE40000:0:0:0:
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TVI
+#EXTVLCOPT:program=301
+http://192.168.1.5:8001/1:0:1:12D:67:53:CE40000:0:0:0:
+
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SIC Noticias
+#EXTVLCOPT:program=202
+http://192.168.1.5:8001/1:0:1:CA:66:53:CE40000:0:0:0:
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TVI24
+#EXTVLCOPT:program=133
+http://192.168.1.5:8001/1:0:1:85:65:53:CE40000:0:0:0:
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,RTP Informação
+#EXTVLCOPT:program=105
+http://192.168.1.5:8001/1:0:1:69:65:53:CE40000:0:0:0:
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,SIC Radical
+#EXTVLCOPT:program=352
+http://192.168.1.5:8001/1:0:1:160:67:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,CM TV
+#EXTVLCOPT:program=104
+http://192.168.1.5:8001/1:0:1:68:65:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,A Bola TV
+#EXTVLCOPT:program=231
+http://192.168.1.5:8001/1:0:1:E7:66:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sport TV 1 HD
+#EXTVLCOPT:program=451
+http://192.168.1.5:8001/1:0:1:1C3:68:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true #EXTINF:-1,Sport TV 2 HD
+#EXTVLCOPT:program=452
+http://192.168.1.5:8001/1:0:1:1C4:68:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BTV 1 HD
+#EXTVLCOPT:program=458
+http://192.168.1.5:8001/1:0:1:1CA:68:53:CE40000:0:0:0:
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,BTV 2
+#EXTVLCOPT:program=106
+http://192.168.1.5:8001/1:0:1:6A:24:36:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sport TV 1
+#EXTVLCOPT:program=302
+http://192.168.1.5:8001/1:0:1:12E:67:53:CE40000:0:0:0:
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sport TV 2
+#EXTVLCOPT:program=205
+http://192.168.1.5:8001/1:0:1:CD:66:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sport TV 3
+#EXTVLCOPT:program=212
+http://192.168.1.5:8001/1:0:1:D4:66:53:CE40000:0:0:0:
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sport TV 4
+#EXTVLCOPT:program=129
+http://192.168.1.5:8001/1:0:1:81:65:53:CE40000:0:0:0:
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Sport TV 5
+#EXTVLCOPT:program=247
+http://192.168.1.5:8001/1:0:1:F7:30:36:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,PFC
+#EXTVLCOPT:program=367
+http://192.168.1.5:8001/1:0:1:16F:67:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Eurosport HD
+#EXTVLCOPT:program=409
+http://192.168.1.5:8001/1:0:1:199:27:36:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Eurosport 2
+#EXTVLCOPT:program=370
+http://192.168.1.5:8001/1:0:1:172:67:53:CE40000:0:0:0:
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TVC1
+#EXTVLCOPT:program=214
+http://192.168.1.5:8001/1:0:1:D6:66:53:CE40000:0:0:0:
+
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TVC2
+#EXTVLCOPT:program=116
+http://192.168.1.5:8001/1:0:1:74:65:53:CE40000:0:0:0:
+
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TVC3
+#EXTVLCOPT:program=215
+http://192.168.1.5:8001/1:0:1:D7:66:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TVC4
+#EXTVLCOPT:program=131
+http://192.168.1.5:8001/1:0:1:83:65:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,TVSéries
+#EXTVLCOPT:program=216
+http://192.168.1.5:8001/1:0:1:D8:66:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,AXN White HD
+#EXTVLCOPT:program=5033
+http://192.168.1.5:8001/1:0:1:13A9:27:36:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,AXN Black HD
+#EXTVLCOPT:program=401
+http://192.168.1.5:8001/1:0:1:191:27:36:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,AXN HD
+#EXTVLCOPT:program=455
+http://192.168.1.5:8001/1:0:1:1C7:68:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,FOX HD
+#EXTVLCOPT:program=456
+http://192.168.1.5:8001/1:0:1:1C8:68:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,FX
+#EXTVLCOPT:program=1306
+http://192.168.1.5:8001/1:0:1:51A:67:53:CE40000:0:0:0:
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,MOV HD
+#EXTVLCOPT:program=944
+http://192.168.1.5:8001/1:0:1:3B0:2F:36:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Hollywood HD
+#EXTVLCOPT:program=404
+http://192.168.1.5:8001/1:0:1:194:68:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,E! Entertainment
+#EXTVLCOPT:program=1309
+http://192.168.1.5:8001/1:0:1:51D:67:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Playboy TV
+#EXTVLCOPT:program=1319
+http://192.168.1.5:8001/1:0:1:527:67:53:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,HOT
+#EXTVLCOPT:program=5018
+http://192.168.1.5:8001/1:0:1:139A:30:36:CE40000:0:0:0:
+
+#EXTM3U 
+#EXTVLCOPT--http-reconnect=true 
+#EXTINF:-1,Venus
+#EXTVLCOPT:program=213
+http://192.168.1.5:8001/1:0:1:D5:66:53:CE40000:0:0:0:
+
